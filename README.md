@@ -76,8 +76,13 @@
 </p>
 
 ## 🐍 Live Contribution Snake (auto-updates daily)
+## 🐍 Live Contribution Snake (auto-updates daily)
 <p align="center">
-<img src="https://raw.githubusercontent.com/endlessabhishek1/endlessabhishek1/output/github-contribution-grid-snake.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/endlessabhishek1/endlessabhishek1/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/endlessabhishek1/endlessabhishek1/output/snake-light.svg">
+  <img alt="snake game" src="https://raw.githubusercontent.com/endlessabhishek1/endlessabhishek1/output/snake.gif">
+</picture>
 </p>
 
 <p align="center">
