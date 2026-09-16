@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/🏅_%22Mr.%20Fresher%22_2022_Batch-FF0080?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏅_Mr._Fresher_%E2%80%94_2022_Batch-FF0080?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/☁️_Google_Cloud_Legend_Tier-7928CA?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🏆_Top_50_%7C_600%2B_Teams-00DFD8?style=for-the-badge"/>
 </p>
@@ -75,7 +75,16 @@
 <img src="https://github-profile-trophy.vercel.app/?username=endlessabhishek1&theme=radical&no-frame=true&margin-w=6&row=1"/>
 </p>
 
-## 🐍 Live Contribution Snake (auto-updates daily)
+## 🏅 Campus Highlight
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:7928CA&height=90&text=%22Mr.%20Fresher%22%20—%202022%20Batch&fontSize=26&fontColor=ffffff&fontAlignY=55&desc=NITRA%20Technical%20Campus&descAlignY=80&descSize=14"/>
+</p>
+
+<p align="center">
+Recognized among the entire 2022 batch as <b>"Mr. Fresher"</b> — a campus-wide honor at NITRA Technical Campus.
+</p>
+
 ## 🐍 Live Contribution Snake (auto-updates daily)
 <p align="center">
 <picture>
