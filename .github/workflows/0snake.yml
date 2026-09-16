@@ -18,7 +18,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: endlessabhishek1
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark&color_snake=%23FF0080
+            dist/snake-light.svg?palette=github-light&color_snake=%237928CA
+            dist/snake.gif?color_snake=%2300DFD8&color_dots=%23FF0080,%237928CA,%2300DFD8,%23ffffff
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
