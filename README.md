@@ -18,7 +18,7 @@ Building end-to-end CV/ML systems and SQL-driven analytics — from a peer-revie
 - 📊 Building an **AI product review sentiment + dynamic pricing engine** (SQL + Python NLP + Power BI)
 - ☁️ **Google Cloud Arcade — Legend Tier** (Top National Rank, 100+ labs across Compute/Storage/BigQuery/IAM)
 - 🏆 Top 50 finalist (top 8% of 600+ teams) — HackWithIndia / HackWithUttarakhand
-- 🎯 Preparing for GATE CS 2027, open to **ML/SWE** and **Data Analyst** roles as a fresher
+- 🎯 Preparing for **ML/SWE** and **Data Analyst** roles as a fresher
 
 ---
 
