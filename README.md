@@ -21,7 +21,7 @@
 ## 🏅 Campus Highlight
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0080,100:7928CA&height=90&text=%22Mr.%20Fresher%22%20—%202022%20Batch&fontSize=26&fontColor=ffffff&fontAlignY=55&desc=NITRA%20Technical%20Campus&descAlignY=80&descSize=14"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=90&text=%22Mr.%20Fresher%22%20—%202022%20Batch&fontSize=26&fontColor=ffffff&fontAlignY=55&desc=NITRA%20Technical%20Campus&descAlignY=80&descSize=14"/>
 </p>
 
 <p align="center">
